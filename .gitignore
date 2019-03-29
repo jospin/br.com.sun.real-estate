@@ -1,0 +1,5 @@
+# Don't track content of these folders
+app/target/
+app/.idea
+app/br.com.sun.real-estate.iml
+*.xlsx
